@@ -1,0 +1,83 @@
+
+.parent{
+    background-color:  #333;;
+    margin: 0;
+    
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 40px;
+    margin-left: 40px;
+    color: white;
+}
+
+
+.list{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+
+    
+    
+}
+
+
+.list-2{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+ 
+}
+
+.list-2:hover{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.main{
+    height: 70vh;
+
+ 
+   
+}
+h2{
+    text-align: center;
+}
+
+
+
+.coin-2{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.coin-2:hover{
+    background-color: black;
+    color: white;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+.footer{
+    background-color: #333;
+    font-style: italic;
+    color: white;
+    height: 34vh;
+}
+
+.footer-text{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.copy{
+    text-align: center;
+}
